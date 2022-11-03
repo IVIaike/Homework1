@@ -7,6 +7,6 @@ int a=3;
 int b=4;
 int c;
         c=a+b;
-        System.out.println(c);
+        System.out.println("Сумма параметров a и b = "+c);
     }
 }
