@@ -5,8 +5,8 @@ public class Main {
 
 int a=3;
 int b=4;
-int c;
-        c=a+b;
-        System.out.println("Сумма параметров a и b = "+c);
+int z;
+        z=a+b;
+        System.out.println("Сумма параметров a и b = "+z);
     }
 }
